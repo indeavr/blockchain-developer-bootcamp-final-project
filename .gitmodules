@@ -1,0 +1,12 @@
+[submodule "dynamic-nfts"]
+	path = dynamic-nfts
+	url = https://github.com/indeavr/dynamic-nfts.git
+	branch = main
+[submodule "dy-ceramic"]
+	path = dy-ceramic
+	url = https://github.com/indeavr/dy-ceramic.git
+	branch = main
+[submodule "dynamic-dapp"]
+	path = dynamic-dapp
+	url = https://github.com/indeavr/dynamic-dapp.git
+	branch = master
