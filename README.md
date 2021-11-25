@@ -4,7 +4,7 @@
 Dynamic NFTs is a code-pattern & tooling that enables web3 creators to have true ownership of assets and create upgradable NFTs in a trustless manner beyond just visual and audio files. We are Empowering the next-generation of GameFi. NFTs are compatible with all major marketplaces.
 
 ## Presentation link
-[Youtube Video](https://www.youtube.com/watch?v=)
+[Youtube Video](https://www.youtube.com/watch?v=u64c0V-_SVc)
 
 ![DynamicNfts](./presentation/images/main.png)
 
