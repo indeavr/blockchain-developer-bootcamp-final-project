@@ -2,11 +2,11 @@
 	path = dynamic-nfts
 	url = https://github.com/indeavr/dynamic-nfts.git
 	branch = main
-[submodule "server"]
-	path = dy-ceramic
+[submodule "dy-ceramic"]
+	path = server
 	url = https://github.com/indeavr/dy-ceramic.git
 	branch = main
-[submodule "dapp"]
-	path = dynamic-dapp
+[submodule "dynamic-dapp"]
+	path = dapp
 	url = https://github.com/indeavr/dynamic-dapp.git
 	branch = master
