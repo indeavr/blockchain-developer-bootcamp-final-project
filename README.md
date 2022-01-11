@@ -70,6 +70,13 @@ The main purpose of the DAPP is to allow protocols to have an Upgradability UX o
 
 ## Installation
 
+Clone & Run:
+
+```
+git submodule init
+git submodule update
+```
+
 ### Prerequisites
 
 - Install [Node.js >= v14](https://nodejs.org/en/download/)
@@ -89,6 +96,19 @@ The main purpose of the DAPP is to allow protocols to have an Upgradability UX o
 - `yarn install`
 - `yarn start`
 - Open `http://localhost:3000`
+
+### Running Tests:
+
+```
+cd dynamic-nfts
+yarn install
+```
+
+Start `ganache-cli` at 8545 &
+
+```
+yarn test
+```
 
 ## Environment variables 
 `Dapp :`
